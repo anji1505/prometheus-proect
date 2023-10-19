@@ -1,1 +1,1 @@
-# prometheus-proect
+# prometheus-project
